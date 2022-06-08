@@ -1,0 +1,82 @@
+---
+# Display name
+title: Jonathan Crabbé
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
+role: PhD Researcher
+
+# Organizations/Affiliations to show in About widget
+organizations:
+  - name: University of Cambridge
+    url: https://www.maths.cam.ac.uk/person/jc2133
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include explainable artificial intelligence, representation learning and robust machine learning.
+
+# Interests to show in About widget
+interests:
+  - Explainable Artificial Intelligence
+  - Robust Machine Learning
+  - Interpretable Representation Learning
+  - Machine Learning for Science and Healthcare
+
+# Education to show in About widget
+education:
+  courses:
+    - course: PhD in Applied Mathematics
+      institution: University of Cambridge
+      year: 2020-2024
+    - course: MASt in Applied Mathematics
+      institution: University of Cambridge
+      year: 2018-2019
+    - course: M1 in Physics
+      institution: Ecole Normale Supérieure Paris
+      year: 2017-2018
+    - course: Bachelor in Engineering
+      institution: Université Libre de Bruxelles
+      year: 2014-2017
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/JonathanICrabbe
+  - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai #fas
+    link: https://scholar.google.com/citations?user=Y_Nmd2sAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/JonathanCrabbe
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jonathancrabbe/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+---
+
+I am currently working towards my PhD thesis in the {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}van der Schaar lab{{< /staticref >}}, a leading machine learning lab from the University of Cambridge led by Mihaela van der Schaar. In this stimulating environment, I am learning to become a well-rounded machine learning researcher.
+
+My research focuses on *Explainable AI*, with a special focus on explaining the *latent representations* that are involved in state-of-the-art machine learning models. I like to think of Explainable AI as a *microscope* that allows us to look inside an artificial intelligence. This microscope is an *interface between machine learning models and human beings*. With this interface, human beings can *extract knowledge* from machine-learning models, which is challenging due to the inherent complexity of those models.
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
