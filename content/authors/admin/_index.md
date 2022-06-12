@@ -76,7 +76,7 @@ highlight_name: true
 
 I am currently working towards my PhD thesis in the {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}van der Schaar lab{{< /staticref >}}, a leading machine learning lab from the University of Cambridge led by Mihaela van der Schaar. In this stimulating environment, I am learning to become a well-rounded machine learning researcher.
 
-My research focuses on *Explainable AI*, with a special focus on explaining the *latent representations* that are involved in state-of-the-art machine learning models. I like to think of Explainable AI as a *microscope* that allows us to look inside an artificial intelligence. This microscope is an *interface between machine learning models and human beings*. With this interface, human beings can *extract knowledge* from machine-learning models, which is challenging due to the inherent complexity of those models.
+My research focuses on *Explainable AI*, with a special focus on explaining the *latent representations* that are involved in state-of-the-art machine learning models. I like to think of Explainable AI as a *microscope* that allows us to look inside a machine learning model, hence providing an *interface between machine learning models and human beings*. With this interface, human beings can *extract knowledge* from machine-learning models, which is challenging due to the inherent complexity of those models.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
