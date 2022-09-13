@@ -59,8 +59,7 @@ projects:
   - rml
 ---
 
-:construction: This page will be updated when the full ICML 2022 schedule is available
 
-[Label-Free Explainability]({{< relref "/publication/lfxai" >}}) The timing should be posted on [this page](https://icml.cc/Conferences/2022/Schedule?showEvent=16184).
+[Label-Free Explainability.]({{< relref "/publication/lfxai" >}}) The timing is available on [this page](https://icml.cc/Conferences/2022/Schedule?showEvent=16184).
 
-[Data-SUITE]({{< relref "/publication/lfxai" >}}) The timing should be posted on [this page](https://icml.cc/Conferences/2022/Schedule?showEvent=17080).
+[Data-SUITE.]({{< relref "/publication/lfxai" >}}) The timing is available on [this page](https://icml.cc/Conferences/2022/Schedule?showEvent=17080).

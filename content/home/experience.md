@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Applied Mathematics PhD Researcher
+  - title: PhD Researcher
     company: University of Cambridge
     company_url: 'https://www.cam.ac.uk/'
     #company_logo: cambridge
@@ -36,6 +36,7 @@ experience:
     * Published several papers in top-tier conferences (NeurIPS, ICML).
 
     * Supervised the research of several MPhil/PhD students.'
+
   - title: Quantitative Research Intern
     company: G-Research
     company_url: 'https://www.gresearch.co.uk/'
@@ -43,9 +44,15 @@ experience:
     location: London, UK
     date_start: '2022-06-27'
     date_end: '2022-09-02'
-    description: '* Conducted research in quantitative finance.'
+    description: '
+    * Conducted research in machine learning applied to quantitative finance.
 
-  - title: Physics Research Intern
+    * Learned to turn raw financial data into predictive features.
+
+    * Presented findings in front of quant managers.  
+    '
+
+  - title: Research Intern
     company: Université Libre de Bruxelles
     company_url: 'https://www.ulb.be/'
     #company_logo: ulb
@@ -59,7 +66,7 @@ experience:
 
     * Responsible of physics example classes for first year pharma students.'  
 
-  - title: Physics Research Intern
+  - title: Research Intern
     company: Imperial College London
     company_url: 'https://www.imperial.ac.uk/'
     #company_logo: imperial

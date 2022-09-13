@@ -16,11 +16,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Implementation of SOTA machine learning (Pytorch, Pandas, Numpy, Scikit-Learn)
+  - description: Implementation of SOTA ML (Pytorch, Pandas, Numpy, Scikit-Learn)
     icon: python
     icon_pack: fab
     name: Coding
-  - description: Strong mathematical background with my MAst. Publication of several theorems
+  - description: Strong mathematical background, my publications have strong theoretical components
     icon: chart-line
     icon_pack: fas
     name: Mathematical Modelling
@@ -35,7 +35,7 @@ feature:
   - description: 50% of my publications are the result of autonomous work
     icon: person
     name: Autonomy
-  - description: Supervision of several MPhil and PhD students
+  - description: Supervision of several MPhil and PhD students, creation of pedagogical YouTube videos
     icon: chalkboard-user
     name: Teaching
 
