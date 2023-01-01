@@ -76,9 +76,9 @@ email: ''
 highlight_name: true
 ---
 
-I am currently working towards my PhD thesis in the {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}van der Schaar lab{{< /staticref >}}, a leading machine learning (ML) lab from the University of Cambridge led by Mihaela van der Schaar. In this stimulating environment, I am learning to become a well-rounded AI researcher.
+I am currently working towards my PhD thesis in the {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}van der Schaar lab{{< /staticref >}}, a leading machine learning (ML) lab from the University of Cambridge. In this stimulating environment, I am learning to become a well-rounded AI researcher.
 
-We are gradually entering in a phase where humans will increasingly interact with AIs, hence forming human-AI teams. I see an immense potential in these teams to approach cutting-edge *scientific* and *medical* problems. My research focuses on making these teams more efficient by improving the information flow between complex ML models and human users. This touches upon various subjects of the AI literature, including *ML Interpretability*, *Representation Learning* and *Data-Centric AI*. In some sense, my goal is to build this *microscope* that would allow human beings to look inside a machine learning model. Through the interface of this microscope, human beings could *rigorously validate* ML models *extract knowledge* from them.
+We are gradually entering in a phase where humans will increasingly interact with AIs, hence forming human-AI teams. I see an immense potential in these teams to approach cutting-edge *scientific* and *medical* problems. My research focuses on making these teams more efficient by improving the information flow between complex ML models and human users. This touches upon various subjects of the AI literature, including *ML Interpretability*, *Representation Learning* and *Data-Centric AI*. In some sense, my goal is to build this *microscope* that would allow human beings to look inside a machine learning model. Through the interface of this microscope, human beings can *rigorously validate* ML models and *extract knowledge* from them.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
