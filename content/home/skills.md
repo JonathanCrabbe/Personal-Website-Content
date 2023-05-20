@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Implementation of SOTA ML (Pytorch, Pandas, Numpy, Scikit-Learn)
+  - description: Experience in big-tech companies, implementation of SOTA ML
     icon: python
     icon_pack: fab
     name: Coding
@@ -24,20 +24,20 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Mathematical Modelling
-  - description: Presentation of my research at many prestigious venues (NeurIPS, ICML)
+  - description: Presentation of my research at many prestigious venues (NeurIPS, ICML, ICLR)
     icon:  file-powerpoint
     icon_pack: fas
     name: Presenting
-  - description: 50% of my publications are the result of collaborative work
+  - description: ~50% of my publications are the result of collaborative work
     icon: user-plus
     icon_pack: fas
     name: Team Working
-  - description: 50% of my publications are the result of autonomous work
+  - description: ~50% of my publications are the result of autonomous work
     icon: person
     name: Autonomy
   - description: Supervision of several MPhil and PhD students, creation of pedagogical YouTube videos
     icon: chalkboard-user
-    name: Teaching
+    name: Supervision
 
 
 # Uncomment to use emoji icons.

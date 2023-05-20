@@ -18,10 +18,10 @@ bio: My research focuses on explainable artificial intelligence, representation 
 
 # Interests to show in About widget
 interests:
-  - ML for Science and Healthcare
   - Interpretability
-  - Representation Learning
   - Robust ML
+  - ML for Science and Healthcare
+  - Representation Learning
   - Data-Centric AI
 
 
@@ -76,9 +76,9 @@ email: ''
 highlight_name: true
 ---
 
-I am currently working towards my PhD thesis in the {{< staticref "https://www.vanderschaar-lab.com/" "newtab" >}}van der Schaar lab{{< /staticref >}}, a leading machine learning (ML) lab from the University of Cambridge. In this stimulating environment, I am learning to become a well-rounded AI researcher.
+I am currently working towards my PhD thesis in the [Applied Mathematics Department](http://www.damtp.cam.ac.uk/) at the University of Cambridge. In this stimulating environment, I am learning to become a well-rounded AI researcher.
 
-We are gradually entering in a phase where humans will increasingly interact with AIs, hence forming human-AI teams. I see an immense potential in these teams to approach cutting-edge *scientific* and *medical* problems. My research focuses on making these teams more efficient by improving the information flow between complex ML models and human users. This touches upon various subjects of the AI literature, including *ML Interpretability*, *Representation Learning* and *Data-Centric AI*. In some sense, my goal is to build this *microscope* that would allow human beings to look inside a machine learning model. Through the interface of this microscope, human beings can *rigorously validate* ML models and *extract knowledge* from them.
+We are gradually entering in a phase where humans will increasingly interact with AIs, hence forming human-AI teams. I see an immense potential in these teams to approach cutting-edge *scientific* and *medical* problems. My research focuses on making these teams more efficient by improving the information flow between complex ML models and human users. This touches upon various subjects of the AI literature, including *ML Interpretability*, *Robust ML* and *Data-Centric AI*. In some sense, my goal is to build this *microscope* that would allow human beings to look inside a machine learning model. Through the interface of this microscope, human beings can *rigorously validate* ML models and *extract knowledge* from them.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
