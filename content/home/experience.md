@@ -33,7 +33,9 @@ experience:
     description: '
     * Conducted research in the [Machine Learning Research team](https://machinelearning.apple.com/).
 
-    * Internship in progress. 
+    * Discovered outlier features and high polysemanticity in zeroshot CLIP models.
+    
+    * Published results in [a paper](publication/eri/).   
     '
 
 
@@ -45,11 +47,11 @@ experience:
     date_start: '2023-02-06'
     date_end: '2023-05-28'
     description: '
-    * Conducted research in the [AI4Science team](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/)
+    * Conducted research in the [AI4Science team](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/).
 
-    * Contributed to the development of machine learning techniques for material discovery. 
+    * Contributed to the development of generative ML techniques for material discovery. 
 
-    * Presented findings in front of AI4Science team.  
+    * Presented findings in front of AI4Science team, results will be integrated in a big paper.  
     '
   
   - title: PhD Researcher

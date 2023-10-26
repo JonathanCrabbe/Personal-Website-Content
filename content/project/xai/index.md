@@ -1,5 +1,5 @@
 ---
-title: Explainable Artificial Intelligence
+title: Interpretable Machine Learning
 summary: Creating an interface between machine learning models and human beings.
 tags:
   - Machine learning

@@ -22,11 +22,11 @@ publishDate: '2023-04-13'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: 
+publication: In *NeurIPS 2023*
+publication_short: In *NeurIPS 2023*
 
 abstract: 'Interpretability methods are valuable only if their explanations faithfully describe the explained model. In this work, we consider neural networks whose predictions are invariant under a specific symmetry group. This includes popular architectures, ranging from convolutional to graph neural networks. Any explanation that faithfully explains this type of model needs to be in agreement with this invariance property. We formalize this intuition through the notion of explanation invariance and equivariance by leveraging the formalism from geometric deep learning. Through this rigorous formalism, we derive (1) two metrics to measure the robustness of any interpretability method with respect to the model symmetry group; (2) theoretical robustness guarantees for some popular interpretability methods and (3) a systematic approach to increase the invariance of any interpretability method with respect to a symmetry group. By empirically measuring our metrics for explanations of models associated with various modalities and symmetry groups, we derive a set of 5 guidelines to allow users and developers of interpretability methods to produce robust explanations.'
 
@@ -43,10 +43,10 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2304.06715'
+url_pdf: 'https://arxiv.org/pdf/2304.06715.pdf'
 url_code: 'https://github.com/JonathanCrabbe/RobustXAI'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://nips.cc/virtual/2023/poster/72800'
 url_project: ''
 url_slides: ''
 url_source: ''

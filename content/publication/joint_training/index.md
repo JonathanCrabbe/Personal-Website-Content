@@ -24,11 +24,11 @@ publishDate: '2023-01-26'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: 
+publication: In *NeurIPS 2023*
+publication_short: In *NeurIPS 2023*
 
 abstract: 'Ensembles of machine learning models have been well established as a powerful method of improving performance over a single model. Traditionally, ensembling algorithms train their base learners independently or sequentially with the goal of optimizing their joint performance. In the case of deep ensembles of neural networks, we are provided with the opportunity to directly optimize the true objective: the joint performance of the ensemble as a whole. Surprisingly, however, directly minimizing the loss of the ensemble appears to rarely be applied in practice. Instead, most previous research trains individual models independently with ensembling performed post hoc. In this work, we show that this is for good reason - joint optimization of ensemble loss results in degenerate behavior. We approach this problem by decomposing the ensemble objective into the strength of the base learners and the diversity between them. We discover that joint optimization results in a phenomenon in which base learners collude to artificially inflate their apparent diversity. This pseudo-diversity fails to generalize beyond the training data, causing a larger generalization gap. We proceed to demonstrate the practical implications of this effect finding that, in some cases, a balance between independent training and joint optimization can improve performance over the former while avoiding the degeneracies of the latter.'
 
@@ -45,10 +45,10 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2301.11323'
+url_pdf: 'https://arxiv.org/pdf/2301.11323.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://neurips.cc/virtual/2023/poster/71391'
 url_project: ''
 url_slides: ''
 url_source: ''

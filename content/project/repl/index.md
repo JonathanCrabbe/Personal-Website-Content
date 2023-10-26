@@ -9,6 +9,7 @@ tags:
   - Self-Supervised Learning
   - Transfer Learning
   - Few Shot Learning
+  - Generative AI
 
 
 

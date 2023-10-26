@@ -46,7 +46,7 @@ summary: We extend existing feature and example importance methods to unsupervis
 
 tags: [Explainability, Interpretability, Latent Representation, Feature Importance,
  Example Importance, Influential Examples, Unsupervised Learning, Self-Supervised Learning,
- Deep Learning, Autoencoder, Variational Autoencoder]
+ Deep Learning, Autoencoder, Variational Autoencoder, Generative AI]
 
 # Display this page in the Featured widget?
 featured: true
